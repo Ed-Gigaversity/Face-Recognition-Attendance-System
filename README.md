@@ -67,7 +67,7 @@ Software Used -
 
 First Download or Clone the Project on Your Local Machine.To download the project from github press **Download Zip**
 
-![Download Zip](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/download%20zip.png)
+![Download Zip]
 
 or 
 
