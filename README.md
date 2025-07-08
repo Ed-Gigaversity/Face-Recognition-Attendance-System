@@ -149,30 +149,38 @@ If you want to use it just follow the steps below.
 -----------------------------------------
 ### Core Libraries
 
-* OpenCV
+* OpenCV:
+  
   Used for image and video processing, capturing frames from the webcam, and basic computer vision tasks.
 
-* Dlib
+* Dlib:
+  
   Provides robust facial recognition and detection algorithms.
 
-* Flask
+* Flask:
+  
   A lightweight web framework for building the web interface and REST APIs.
 
-* face_recognition
+* face_recognition:
+  
   A high-level library built on top of dlib, simplifying face detection and recognition tasks in Python.
 
 ### Additional Libraries
 
-* Pillow (PIL)
+* Pillow (PIL):
+  
   For image manipulation and processing.
 
-* Tkinter
+* Tkinter:
+  
   Used in some versions for creating graphical user interfaces.
 
-* MongoDB or SQLite
+* MongoDB or SQLite:
+  
   For storing attendance records and user data (the specific database may vary).
 
-* Bootstrap, HTML, CSS, JavaScript
+* Bootstrap, HTML, CSS, JavaScript:
+  
 For designing the frontend of the web application.
 
 ## Known Bugs :bug:
