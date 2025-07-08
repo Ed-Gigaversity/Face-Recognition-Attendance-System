@@ -145,9 +145,37 @@ If you want to use it just follow the steps below.
 5. Change the mail information
 6. Run the project using the command line or your IDE Run Button
 
+## credits
+-----------------------------------------
+#Core Libraries
+*OpenCV
+Used for image and video processing, capturing frames from the webcam, and basic computer vision tasks.
+
+*Dlib
+Provides robust facial recognition and detection algorithms.
+
+*Flask
+A lightweight web framework for building the web interface and REST APIs.
+
+*face_recognition
+A high-level library built on top of dlib, simplifying face detection and recognition tasks in Python.
+
+#Additional Libraries
+*Pillow (PIL)
+For image manipulation and processing.
+
+*Tkinter
+Used in some versions for creating graphical user interfaces.
+
+*MongoDB or SQLite
+For storing attendance records and user data (the specific database may vary).
+
+*Bootstrap, HTML, CSS, JavaScript
+For designing the frontend of the web application.
+
 ## Known Bugs :bug:
 ------------------------------
 This project have some bugs.
 
 * <strike>Student Details: In student details folder the **StudentDetails.csv** file don't have ID & name column.This problem show when the program run first time and create the <stong>StudentDetails.csv</strong> file automatically. To soleve the problelm just open the file and add *ID & Name Column* in the file and save it.</strike>
-* Auto Attachment: This is not a problem actually. The problem is before sent auto mail we have to manually change the file name. I tried to automate the attachment but i faild.
+* Auto Attachment: This is not a problem actually. The problem is before sent auto mail we have to manually change the file name. I tried to automate the attachment but i failed.
